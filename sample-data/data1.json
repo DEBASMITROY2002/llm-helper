@@ -1,0 +1,253 @@
+{
+    "1": {
+        "content": "The Python Environments category lists the Python environments that VS Code detects from the compute system it's operating in (your desktop, Codespaces, remote server, etc.). It shows all Python environments grouped by type (for example, conda, venv)—whether the IPyKernel is installed or not.Note: You do not need to install jupyter into the Python environment you want to use. Only the IPyKernel package is required to launch a Python process as a kernel and execute code against your notebook (pip install ipykernel). Visit the Jupyter extension wiki to learn more.",
+        "title": "Python Environments",
+        "id": 1
+    },
+    "2": {
+        "content": "In React, the useState hook allows you to add state to functional components. It's an essential feature for building dynamic UIs where the component needs to react to user interactions or other events. You can initialize state by passing the initial value as an argument to useState.",
+        "title": "React useState Hook",
+        "id": 2
+    },
+    "3": {
+        "content": "REST (Representational State Transfer) is an architectural style for building distributed systems. It relies on stateless communication protocols, typically HTTP. RESTful services define a set of constraints like statelessness, uniform interface, and resource representation using URIs.",
+        "title": "Introduction to REST APIs",
+        "id": 3
+    },
+    "4": {
+        "content": "A neural network consists of layers of interconnected nodes. Each node in a layer processes an input, applies a weight and an activation function, and passes the result to the next layer. The final output layer generates predictions based on the input data.",
+        "title": "Basics of Neural Networks",
+        "id": 4
+    },
+    "5": {
+        "content": "Tailwind CSS is a utility-first CSS framework that provides low-level utility classes to build custom designs without leaving your HTML. Instead of predesigned components, Tailwind offers a set of utility classes that can be combined to create any design.",
+        "title": "Tailwind CSS Overview",
+        "id": 5
+    },
+    "6": {
+        "content": "The Event Loop in JavaScript is responsible for executing tasks, handling asynchronous operations like network requests, and managing events. It continuously checks the call stack and callback queue, processing the events once the call stack is empty.",
+        "title": "JavaScript Event Loop",
+        "id": 6
+    },
+    "7": {
+        "content": "HTTP methods include GET, POST, PUT, DELETE.",
+        "title": "HTTP Methods",
+        "id": 7
+    },
+    "8": {
+        "content": "Flask is a lightweight Python web framework.",
+        "title": "Flask Framework",
+        "id": 8
+    },
+    "9": {
+        "content": "Redux manages application state in React.",
+        "title": "Redux State Management",
+        "id": 9
+    },
+    "10": {
+        "content": "A function is a block of reusable code.",
+        "title": "Functions in Programming",
+        "id": 10
+    },
+    "11": {
+        "content": "Variables store data values in programming.",
+        "title": "Variables",
+        "id": 11
+    },
+    "12": {
+        "content": "Loops repeat a block of code multiple times.",
+        "title": "Loops",
+        "id": 12
+    },
+    "13": {
+        "content": "SQL stands for Structured Query Language.",
+        "title": "Introduction to SQL",
+        "id": 13
+    },
+    "14": {
+        "content": "CSS Flexbox provides a flexible layout structure.",
+        "title": "CSS Flexbox",
+        "id": 14
+    },
+    "15": {
+        "content": "Promises handle asynchronous code in JavaScript.",
+        "title": "JavaScript Promises",
+        "id": 15
+    },
+    "16": {
+        "content": "React components are reusable UI elements.",
+        "title": "React Components",
+        "id": 16
+    },
+    "17": {
+        "content": "APIs allow different systems to communicate.",
+        "title": "APIs",
+        "id": 17
+    },
+    "18": {
+        "content": "The DOM represents a webpage as a tree structure.",
+        "title": "DOM (Document Object Model)",
+        "id": 18
+    },
+    "19": {
+        "content": "NPM is a package manager for JavaScript.",
+        "title": "NPM",
+        "id": 19
+    },
+    "20": {
+        "content": "Vue.js is a progressive JavaScript framework.",
+        "title": "Vue.js Framework",
+        "id": 20
+    },
+    "21": {
+        "content": "Kubernetes manages containerized applications.",
+        "title": "Kubernetes",
+        "id": 21
+    },
+    "22": {
+        "content": "Java is a high-level, class-based programming language.",
+        "title": "Java Programming",
+        "id": 22
+    },
+    "23": {
+        "content": "Hashing converts data into a fixed-length string.",
+        "title": "Hashing",
+        "id": 23
+    },
+    "24": {
+        "content": "OAuth is a protocol for authorization.",
+        "title": "OAuth",
+        "id": 24
+    },
+    "25": {
+        "content": "HTML forms collect user input on a webpage.",
+        "title": "HTML Forms",
+        "id": 25
+    },
+    "26": {
+        "content": "Unit tests test individual units of code.",
+        "title": "Unit Testing",
+        "id": 26
+    },
+    "27": {
+        "content": "Bootstrap is a CSS framework for responsive designs.",
+        "title": "Bootstrap",
+        "id": 27
+    },
+    "28": {
+        "content": "MongoDB is a NoSQL database.",
+        "title": "MongoDB",
+        "id": 28
+    },
+    "29": {
+        "content": "AJAX allows asynchronous updates of web pages.",
+        "title": "AJAX",
+        "id": 29
+    },
+    "30": {
+        "content": "JWT is a compact, URL-safe token for claims.",
+        "title": "JWT (JSON Web Token)",
+        "id": 30
+    },
+    "31": {
+        "content": "The box model defines the layout of HTML elements.",
+        "title": "CSS Box Model",
+        "id": 31
+    },
+    "32": {
+        "content": "Pandas is a Python library for data manipulation.",
+        "title": "Pandas Library",
+        "id": 32
+    },
+    "33": {
+        "content": "Virtual machines emulate computing environments.",
+        "title": "Virtual Machines",
+        "id": 33
+    },
+    "34": {
+        "content": "WebSockets allow full-duplex communication over a single TCP connection.",
+        "title": "WebSockets",
+        "id": 34
+    },
+    "35": {
+        "content": "Async/await simplifies handling asynchronous code in JavaScript.",
+        "title": "Async/Await",
+        "id": 35
+    },
+    "36": {
+        "content": "The MERN stack consists of MongoDB, Express, React, and Node.js.",
+        "title": "MERN Stack",
+        "id": 36
+    },
+    "37": {
+        "content": "Sessions store temporary information between HTTP requests.",
+        "title": "Sessions",
+        "id": 37
+    },
+    "38": {
+        "content": "Sass is a CSS preprocessor for cleaner stylesheets.",
+        "title": "Sass",
+        "id": 38
+    },
+    "39": {
+        "content": "An API gateway manages traffic between clients and services.",
+        "title": "API Gateway",
+        "id": 39
+    },
+    "40": {
+        "content": "GraphQL allows flexible queries to request specific data.",
+        "title": "GraphQL",
+        "id": 40
+    },
+    "41": {
+        "content": "WebAssembly runs low-level code in web browsers.",
+        "title": "WebAssembly",
+        "id": 41
+    },
+    "42": {
+        "content": "Encryption converts data into a secure format.",
+        "title": "Encryption",
+        "id": 42
+    },
+    "43": {
+        "content": "Webpack bundles JavaScript files for browser use.",
+        "title": "Webpack",
+        "id": 43
+    },
+    "44": {
+        "content": "TypeScript is a statically typed superset of JavaScript.",
+        "title": "TypeScript",
+        "id": 44
+    },
+    "45": {
+        "content": "Elasticsearch is a distributed search and analytics engine.",
+        "title": "Elasticsearch",
+        "id": 45
+    },
+    "46": {
+        "content": "Graph databases store data in nodes and edges.",
+        "title": "Graph Databases",
+        "id": 46
+    },
+    "47": {
+        "content": "SQL indexes improve query performance.",
+        "title": "SQL Indexes",
+        "id": 47
+    },
+    "48": {
+        "content": "OAuth 2.0 is a framework for securing access to APIs.",
+        "title": "OAuth 2.0",
+        "id": 48
+    },
+    "49": {
+        "content": "Serverless computing abstracts the management of server infrastructure.",
+        "title": "Serverless Computing",
+        "id": 49
+    },
+    "50": {
+        "content": "The event-driven architecture processes events asynchronously.",
+        "title": "Event-Driven Architecture",
+        "id": 50
+    }
+}
+    
