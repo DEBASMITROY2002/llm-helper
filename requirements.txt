@@ -1,0 +1,11 @@
+transformers
+torch
+scikit-learn
+pandas
+langchain
+langgraph
+qdrant_client
+langchain_core
+langchain_community
+pygraphviz
+grandalf
