@@ -1,0 +1,6 @@
+WhatsApp-Stickers
+image_db.json
+.myenv
+.qdrant-vectors
+.env
+.DS_Store
