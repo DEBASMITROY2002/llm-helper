@@ -1,6 +1,3 @@
 .myenv
 .env
-/__pycache__
-.qdrant-vectors
-WhatsApp-Stickers
-image_db.json
+/private/*
